@@ -1,6 +1,6 @@
 <?php
 
-namespace Application\Model\Repository;
+namespace Owned\Model\Repository;
 
 use ZfcUser\Entity\UserInterface;
 use Doctrine\ORM\EntityRepository;
